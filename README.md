@@ -80,12 +80,7 @@ Hey! I'm **Praneeth**, a passionate **AI/ML developer and automation engineer** 
   <a href="https://www.linkedin.com/in/praneeth-kumar-bangari-86b9332b4" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-Praneeth%20Kumar-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
-  <a href="https://www.youtube.com/@praneethkumar" target="_blank">
-    <img src="https://img.shields.io/badge/YouTube-Subscribe-FF0000?style=for-the-badge&logo=youtube&logoColor=white" />
-  </a>
-  <a href="https://medium.com/@praneethkumar" target="_blank">
-    <img src="https://img.shields.io/badge/Medium-Read%20Articles-000000?style=for-the-badge&logo=medium&logoColor=white" />
-  </a>
+
   <a href="https://www.instagram.com/praneeth_kumar" target="_blank">
     <img src="https://img.shields.io/badge/Instagram-Follow-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
   </a>
