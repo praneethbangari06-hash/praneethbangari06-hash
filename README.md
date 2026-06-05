@@ -94,27 +94,6 @@ Hey! I'm **Praneeth**, a passionate **AI/ML developer and automation engineer** 
 ---
 
 <!-- SECTION E: GITHUB STATS -->
-## 📊 GitHub Stats
-
-<div align="center">
-
-  <img src="https://github-readme-stats.vercel.app/api?username=praneethbangari06-hash&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="165" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=praneethbangari06-hash&layout=compact&theme=tokyonight&hide_border=true" height="165" />
-
-  <br/>
-
-  <img src="https://streak-stats.demolab.com?user=praneethbangari06-hash&theme=tokyonight&hide_border=true" />
-
-</div>
-
----
-
-<!-- SECTION F: GITHUB TROPHIES -->
-## 🏆 GitHub Trophies
-
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=praneethbangari06-hash&theme=darkhub&no-frame=true&no-bg=true&margin-w=4" />
-</div>
 
 ---
 
@@ -126,8 +105,6 @@ Hey! I'm **Praneeth**, a passionate **AI/ML developer and automation engineer** 
 | Platform | Link |
 |----------|------|
 | 💼 LinkedIn | [praneeth-kumar-bangari](https://www.linkedin.com/in/praneeth-kumar-bangari-86b9332b4) |
-| 📺 YouTube | [My Channel](https://www.youtube.com/@praneethkumar) |
-| ✍️ Medium | [My Articles](https://medium.com/@praneethkumar) |
 | 📸 Instagram | [My Profile](https://www.instagram.com/praneeth_kumar) |
 
 </div>
